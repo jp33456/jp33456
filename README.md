@@ -1,8 +1,5 @@
 # About Me 
 
-
-**
-
 Hey ya'll
 
 - 🔭 I’m currently working on Mahself
